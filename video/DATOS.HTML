@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>AUDIO Y VIDEO</title>
+  </head>
+  <body>
+    <h2>autoplay</h2>
+    <p>reproduce el video ni bien se abra la web, sin necesidad de dar clic en el boton de reproduccion</p>
+    <audio src="audios/audio.mp3" controls autoplay></audio>
+    <h2>loop</h2>
+    <p>este atributo se encarga de reproducir el audio siempre q termine</p>
+    <audio src="audios/audio.mp3" controls loop></audio>
+    <h2>preload</h2>
+    <p>este atributo tiene un comportamiento especial cuando estamos trabajando con archivos multimedia q son muy pesados nuestro sitio web tienede a ponerse lento este atributo almacena de manera temporal para q sea mas rapido el acceso a ellos </p>
+    <ul>
+      <li>none : no almacenar nuestros archivos</li>
+      <audio src="audios/audio.mp3"controls preload="none"></audio>
+      <li>auto : almacena temporalmente el archivo multimedia</li>
+      <audio src="audios/audio.mp3"controls preload="auto"></audio>
+    </ul>
+  </body>
+</html>

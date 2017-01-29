@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="rinnegan" width="300" height="300" version="1.1" inkscape:version="0.48.4 r9939" sodipodi:docname="Rinnegan.svg">
+  <metadata id="metadata3186">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="745" id="namedview3184" showgrid="false" inkscape:zoom="1.6839583" inkscape:cx="150" inkscape:cy="155.93839" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="rinnegan"/>
+  <defs id="defs3213">
+    <radialGradient gradientUnits="objectBoundingBox" r="70%" cy="80%" fy="100%" id="gr">
+      <stop style="stop-color:#98a6a9;stop-opacity:1;" offset="0" id="st1"/>
+      <stop style="stop-color:#8b7496;stop-opacity:1;" offset="1" id="st2"/>
+    </radialGradient>
+  </defs>
+  <circle style="fill: url(#gr); stroke:#000; stroke-width:10;" cx="150" cy="150" r="145" id="iris"/>
+  <circle style="fill:none;stroke:black;stroke-width:5" cx="150" cy="150" r="40" id="circle1" sodipodi:cx="150" sodipodi:cy="150" sodipodi:rx="40" sodipodi:ry="40"/>
+  <circle style="fill:none;stroke:black;stroke-width:5" cx="150" cy="150" r="75" id="circle2" sodipodi:cx="150" sodipodi:cy="150" sodipodi:rx="75" sodipodi:ry="75"/>
+  <circle style="fill:none;stroke:black;stroke-width:5" cx="150" cy="150" r="110" id="circle3" sodipodi:cx="150" sodipodi:cy="150" sodipodi:rx="110" sodipodi:ry="110"/>
+  <circle style="fill:black" cx="150" cy="150" r="10" id="centro" sodipodi:cx="150" sodipodi:cy="150" sodipodi:rx="10" sodipodi:ry="10"/>
+  <g id="grupo 1">
+    <g id="tomoe 1">
+      <path sodipodi:type="arc" style="fill:black;stroke:none" id="tomoe 1a" sodipodi:cx="150" sodipodi:cy="110" sodipodi:rx="12.5" sodipodi:ry="12.5" d="m 162.5,110 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"/>
+      <path inkscape:connector-curvature="0" id="tome 1b" d="m 156.29068,99.328628 c 1.78076,-2.504284 10.69825,-3.236979 16.56577,0.2126 0.12569,0.0739 1.08629,0.763162 0.34551,-0.561313 -26.25399,-24.989901 -45.8919,10.965295 -31.18209,20.519995 l 14.27081,-20.171282 z" style="fill:black;stroke:none"/>
+    </g>
+    <use x="0" y="0" xlink:href="#tomoe 1" id="tomoe 2" width="300" height="300" transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,354.90381,95.096189)"/>
+    <use transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,95.096189,354.90381)" height="300" width="300" id="tomoe 3" xlink:href="#tomoe 1" y="0" x="0"/>
+  </g>
+  <g id="grupo 2">
+    <g id="tomoe 4">
+      <path d="m 162.5,225 a 12.5,12.5 0 1 1 -25,0 12.5,12.5 0 1 1 25,0 z" sodipodi:ry="12.5" sodipodi:rx="12.5" sodipodi:cy="225" sodipodi:cx="150" id="tomoe 4a" style="fill:black;stroke:none" sodipodi:type="arc"/>
+      <path style="fill:black;stroke:none" d="m 143.18918,235.72119 c -1.78076,2.50428 -10.69825,3.23698 -16.56577,-0.2126 -0.12569,-0.0739 -1.08629,-0.76316 -0.34551,0.56131 26.25398,24.9899 45.89189,-10.96529 31.18208,-20.51999 l -14.2708,20.17128 z" id="tomoe 4b" inkscape:connector-curvature="0"/>
+    </g>
+    <use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,354.90381,95.096189)" height="300" width="300" id="tomoe 5" xlink:href="#tomoe 4" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#tomoe 4" id="tomoe 6" width="300" height="300" transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,95.096189,354.90381)"/>
+  </g>
+</svg>
