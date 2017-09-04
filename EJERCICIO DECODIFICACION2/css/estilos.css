@@ -1,0 +1,26 @@
+h1.comentarios
+{
+  columns: 30px;
+  rows: 3px
+}
+input[name^=email]
+{
+  background-color: #eeeeee;
+}
+body
+{
+  margin: 20px;
+  font-family: verdana;
+}
+p,label
+{
+  font-family: tahoma;
+}
+p:nth-child(3)
+{
+  color: red;
+}
+p > textarea
+{
+  width: 200px
+}
