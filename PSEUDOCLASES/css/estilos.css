@@ -3,3 +3,18 @@ body
   margin: 20px;
   font-family: verdana;
 }
+#navbar
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.alternativo
+{
+  color: #1d7702;
+  text-decoration: none;
+}
+a:hover
+{
+  text-decoration: underline;
